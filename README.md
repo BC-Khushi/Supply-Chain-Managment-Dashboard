@@ -15,7 +15,6 @@ This Power BI dashboard analyzes supply chain operations, inventory levels, proc
 - Lead Time and Delivery Delay
 - Service Level and SLA Compliance
 - Procurement Efficiency
-- 
 
 ## Key Insights
 - Monitored inventory levels to identify stock shortages and overstock situations.
