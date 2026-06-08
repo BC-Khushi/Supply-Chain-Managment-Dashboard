@@ -6,16 +6,16 @@ This Power BI dashboard analyzes supply chain operations, inventory levels, proc
 ## Tools Used
 - Power BI
 - Excel
-- SQL
 
 ## Features
-- Inventory Level Monitoring
-- Supplier Performance Analysis
-- Procurement Cost Analysis
-- Order Fulfillment Tracking
-- Logistics and Delivery Performance Monitoring
-- Demand and Supply Trend Analysis
-- Interactive Filters and Drill-Down Reports
+- Executive Supply Chain Overview
+- Inventory Management and optimization
+- Demand vs Supply Analysis
+- Supplier Performance
+- Lead Time and Delivery Delay
+- Service Level and SLA Compliance
+- Procurement Efficiency
+- 
 
 ## Key Insights
 - Monitored inventory levels to identify stock shortages and overstock situations.
